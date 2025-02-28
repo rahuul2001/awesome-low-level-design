@@ -11,7 +11,7 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 
 - [Basics OOP Concepts](https://blog.algomaster.io/p/basic-oop-concepts-explained-with-code) https://claude.ai/share/6f66e77e-0b99-4b63-b0c4-0e239a116540 
 - [SOLID Principles with Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
-- [SOLID Principles with Code](https://blog.algomaster.io/p/solid-principles-explained-with-code)
+- [SOLID Principles with Code](https://blog.algomaster.io/p/solid-principles-explained-with-code) (https://claude.ai/share/0081975f-160e-44fd-944e-01d17a2db099)
 - [DRY Principle](https://blog.algomaster.io/p/082450d8-0e7b-4447-a8dc-b7308e45f048)
 - [YAGNI Principle](https://blog.algomaster.io/p/8c3c7da7-885b-4a9c-a6e4-70ee02de4772)
 - [KISS Principle](https://blog.algomaster.io/p/21b57678-b351-4ed4-b390-3b6308af2f7d)
